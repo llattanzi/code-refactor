@@ -8,6 +8,11 @@ body {
     background-color: #d9dcd6;
 }
 
+p {
+    font-size: 16px;
+}
+
+/* HEADER STYLING */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -41,16 +46,11 @@ header nav ul li {
     margin-left: 25px;
 }
 
-/* END OF HEADER STYLING */
-
-a {
+header a {
     color: #ffffff;
     text-decoration: none;
 }
-
-p {
-    font-size: 16px;
-}
+/* END OF HEADER STYLING */
 
 .hero {
     height: 800px;
