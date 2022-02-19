@@ -52,6 +52,7 @@ header a {
 }
 /* END OF HEADER STYLING */
 
+/* HERO/JUMBOTRON STYLING */
 .hero {
     height: 800px;
     width: 100%;
@@ -60,6 +61,7 @@ header a {
     background-size: cover;
     background-position: center;
 }
+/* END HERO/JUMBOTRON STYLING */
 
 /* CONTENT STYLING*/
 .content {
